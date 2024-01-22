@@ -1,0 +1,10 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+int first_number=12, second_number=34, result;
+result=first_number+second_number;
+cout<<"ADDITION IS:="<<result;
+getch();
+return 0;
+}
