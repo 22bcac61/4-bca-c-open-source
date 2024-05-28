@@ -7,4 +7,5 @@ result=first_number+second_number;
 cout<<"ADDITION IS:="<<result;
 getch();
 return 0;
+return -1;
 }
